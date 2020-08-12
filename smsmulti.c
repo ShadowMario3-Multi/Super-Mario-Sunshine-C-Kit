@@ -7,7 +7,7 @@
 #include <math.h>
 #include "sms.h"
 
-#define NUM_PLAYERS 2
+#define NUM_PLAYERS 3
 
 volatile const char* CREDITS = "Super Mario Sunshine Multiplayer https://egaddsworkshop.com/";
 
